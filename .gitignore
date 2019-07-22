@@ -1,0 +1,6 @@
+/Clawer/output/
+/Clawer/target/
+/Clawer/.idea/
+*.class
+*.*~
+.idea/
